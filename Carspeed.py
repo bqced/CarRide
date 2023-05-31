@@ -1,4 +1,3 @@
-#aUTHOR: Cedric Jr
 class Car:
 #Variables are initialised and set to zero
     def __init__(self, speed=0):
